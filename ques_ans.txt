@@ -1,0 +1,21 @@
+I want to order a Pizza
+Please select the pizza you want
+Item selected
+Want more pizza
+Veg pizza
+Do you want to place more pizza?
+Want to buy more
+Please select the pizza you want
+Ordering process
+Give your name , phone , address (given format)
+I want to track my order
+Enter your order id
+Capricorn pizza
+Do you want to place more pizza?
+Hot Pizza
+Do you want to place more pizza?
+Bella Italia
+Do you want to place more pizza?
+YESS....I Confirm my order
+Your Order placed successfully!!....
+NO.....
